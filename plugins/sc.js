@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 
 
 let buttonMessage= {
-'document':{'url': 'http://s.id/re-md' },
+'document':{'url': 'https://kyouka-website.vercel.app/' },
 'mimetype': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
 'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
 'fileLength': 22222222222222,
@@ -11,14 +11,14 @@ let buttonMessage= {
 'forwardingScore':222,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl': 'http://github.com/Rlxfly/re-md',
+'mediaUrl': 'http://github.com/Yuri-Neko/SHIORI/',
 'mediaType': 2,
 'previewType': 2,
 'title': 'Searching Source Code?',
 'body': me,
 'thumbnail': thumb2,
 'sourceUrl': 'https://www.youtube.com/watch?v=qBJ0F9Ecax0'}},
-'caption': 'http://github.com/Rlxfly/re-md',
+'caption': 'CARI ESCE YAH BAMH?',
 'footer': me,
 'buttons':[
 {'buttonId': _p + 'menu','buttonText':{'displayText':'ᴍᴇɴᴜ'},'type':1},
